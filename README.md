@@ -98,7 +98,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![output](calculator/static/images/jain.png)
+![jain](https://user-images.githubusercontent.com/118707073/214360581-e6440c22-0593-4102-ba42-4cdc81a9a72d.png)
+
 
 ## RESULT:
 Thus a web application for standard calculator is designed.
